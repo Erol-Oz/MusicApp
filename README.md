@@ -1,4 +1,4 @@
-# Fazla Gıda Task
+# MusicApp
 #### Bu projemde Last.fm den sağladığım api verisi ile en çok dinlenen sanatçıların,en çok dinlenen albümlerin ve parçaların listelenmesini sağladım.
 #### Aynı zamanda filtreleme, sonsuz kaydırma, tema değiştirme, giriş ve kayıt ol işlemlerini projemde responsive bir yapıda sundum.
 
